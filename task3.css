@@ -1,0 +1,1229 @@
+.parent{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.heading-background{
+    background: linear-gradient(180.15deg, #E8EAF4 0.15%, #FEFEFE 99.89%);
+}
+.top-headings{
+    display: flex;
+    justify-content: space-between;
+}
+.Stellar-logo{
+    padding-top: 27px;
+    width: 165px;
+}
+.justtify-logo{
+    padding-left: 60px;
+}
+.guide-pricing-flex{
+    display: flex;
+    gap: 70px;
+    font-family: 'Futura PT',sans-serif;
+font-weight: 400;
+font-size: 18px;
+
+color: #131821;
+padding-top: 20px;
+
+}
+.justtify-button{
+           padding-left: 150px;
+           padding-right: 20px;
+           padding-top: 30px;
+}
+.log-inbutton{
+    padding: 9px 18px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+    background: linear-gradient(90deg, #5680E9 0%, #4D47C8 100%);
+border-radius: 32px;
+}
+.main-heading{
+    justify-content: center;
+    font-family: 'Futura PT',sans-serif;
+font-weight: 600;
+font-size: 52px;
+line-height: 69px;
+text-align: center;
+color: #131821;
+padding-top: 20px;
+}
+.main-heading-sub{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 400;
+font-size: 18.3px;
+line-height: 0px;
+text-align: center;
+color: #4C586F;
+}
+.Get-TURINGSEO-button{
+    padding: 14px 26px;
+    background: linear-gradient(90deg, #5680E9 0%, #4D47C8 100%);
+border-radius: 30px;
+border: none;
+color: #FFFFFF;
+font-size: 17px;
+
+}
+.Get-TURINGSEO{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.laptop-portion-flex{
+    display: flex;
+    gap: 30px;
+    padding-top: 70px;
+    justify-content: center;
+}
+.macbook{
+    width: 573px;
+}
+.laptop-portion-paragraph{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+color: #4C586F;
+}
+.Bulk-Updates-heading{
+    
+font-family: 'Futura PT',sans-serif;
+font-weight: 600;
+font-size: 33px;
+color: #131821;
+text-align: center;
+padding-top: 30px;
+}
+.link-cleaner-portionflex{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    padding-top: 40px;
+}
+.link-cleaner-head{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 600;
+font-size: 17px;
+color: #131821;
+}
+.linkcleaner-paragraph{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 250;
+font-size: 15px;
+line-height: 27px;
+color: #4C586F;
+}
+.image-linkcleaner{
+    width: 425px;
+}
+.Link-Normalizer-flex{
+    display: flex;
+    justify-content: center;
+    gap: 38px;
+    padding-top: 70px;
+}
+.Link-Normalizer-head{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: #131821;
+}
+.Link-Normalizer-paragraph{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 250;
+font-size: 15px;
+line-height: 27px;
+color: #4C586F;
+}
+.img-linknormlizer{
+    width:414px;
+}
+.directive-flex{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 60px;
+}
+.img-directive{
+    width: 407px;
+}
+.thinmatic-flex{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 70px;
+
+}
+.img-thinmatic{
+    width: 424px;
+}
+.track-undo-flex{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 60px;
+}
+.track-undo-image{
+    width: 400px;
+}
+.form-justify{
+    display: flex;
+    padding-top: 80px;
+    justify-content: center;
+}
+.form{
+    width: 876px;
+}
+.Our-Benefits{
+    font-family: 'Futura PT',sans-serif;
+    text-align: center;
+font-weight: 600;
+font-size: 30px;
+color: #131821;
+padding-top: 40px;
+}
+.boxes-6{
+    display:grid;
+    gap: 20px;
+    grid-template-columns: auto auto auto;
+    max-width: 876px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.box1-of-6{
+background: linear-gradient(147.95deg, #EBEEF6 14.45%, rgba(235, 238, 246, 0) 80.75%);
+border-radius: 16px;
+width: 278px;
+}
+.box-img{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.boxes-headings{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 600;
+font-size: 17px;
+color: #131821;
+padding-left: 15px;
+}
+.boxes-paragraph{
+    font-family: 'Futura PT',sans-serif;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+color: #4C586F;
+padding-left: 15px;
+}
+.two-boxes1{
+    background: linear-gradient(147.95deg, #EBEEF6 14.45%, rgba(235, 238, 246, 0.6) 80.75%);
+    border-radius: 16px;
+    width: 25%;
+    padding-bottom: 30px;
+}
+.basic{
+    font-family: 'Futura PT',sans-serif;
+    text-align: center;
+    padding-top: 30px;
+font-weight: 600;
+font-size: 17px;
+color: #131821;
+}
+.free{
+    font-family: 'Futura PT',sans-serif;
+    text-align: center;
+font-weight: 600;
+font-size: 30px;
+color: #5680E9;
+}
+.under-free{
+    font-family:'Futura PT',sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    color: #131821;
+}
+.ul1{
+    font-family:'Futura PT',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 35px;
+    color: #4C586F;
+}
+.button-flex{
+    display: flex;
+    justify-content: center;
+}
+.twobox1-button{
+    font-family:'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+    color: #FFFFFF;
+    padding: 14px 25px;
+    
+background: linear-gradient(90deg, #5680E9 0%, #4D47C8 100%);
+border-radius: 30px;
+}
+.twobox2{
+    border-radius: 16px;
+    width: 25%;
+    padding-bottom: 30px;
+    background: #5680E9;
+box-shadow: 0px 15px 28px rgba(27, 76, 199, 0.15);
+}
+.Professional{
+    font-family: 'Futura PT',sans-serif;
+    text-align: center;
+    padding-top: 30px;
+font-weight: 600;
+font-size: 17px;
+color: #BEE8F8;
+}
+.strong-50{
+font-family: 'Futura PT',sans-serif; 
+font-weight: 700;
+text-align: center;
+font-size: 30px;
+color: #FFFFFF;
+}
+.justify-50{
+    text-align: center;
+}
+.strong-month{
+    font-family: 'Futura PT',sans-serif;
+    text-align: center;
+font-size: 17px;
+line-height: 57px;
+color: #FFFFFF;
+}
+.Ideal-for-individual
+{
+    font-family:'Futura PT',sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    color: #BEE8F8;
+}
+.ul2{
+    font-family:'Futura PT',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 35px;
+    color: #BEE8F8; 
+}
+.twobox2-button{
+    font-family:'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    border: none;
+    color: #5680E9;
+    padding: 14px 70px;
+    
+    background: #FFFFFF;
+border-radius: 30px;
+}
+.two-boxes-flex{
+    display: flex;
+    gap: 17px;
+    justify-content: center;
+}
+.justify-customer-box{
+    padding-top: 50px;
+}
+.customer-box{
+    background: linear-gradient(180deg, #FAFAFC 0%, rgba(217, 217, 217, 0) 100%);
+border-radius: 16px;
+width: 86%;
+
+margin: auto;
+}
+.customer-heading{
+        font-family: 'Futura PT',sans-serif;
+        text-align: center;
+        font-weight: 600;
+        font-size: 30px;
+        color: #131821;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    
+}
+.stars{
+    padding-top: 16px;
+    padding-left: 15px;
+}
+.highly{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: #131821;
+    padding-left:14px ;
+}
+.highly-paragraph{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4C586F;
+    padding-left: 14px;
+}
+.customer-inner-box{
+    background: #FFFFFF;
+border-radius: 16px;
+padding-right: 25px;
+padding-bottom: 10px;
+}
+.customer-boxes-flex{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.picture-flex{
+    display: flex;
+    padding-left: 14px;
+    gap: 18px;
+}
+.chris-pic{
+    padding-top: 10px;
+    width: 70px;
+}
+.CEO-justify{
+    padding-top: 18px;
+}
+.chris{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    color: #131821;
+    margin: auto;
+}
+.CEO{
+    font-family: 'Futura PT',sans-serif;
+    font-size: 13px;
+    color: #4C586F;
+    font-weight: 200;
+    margin: auto;
+    padding-top: 10px;
+}
+.pagination{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    justify-content: center;
+}
+.newline-967{
+    display: none;
+}
+.last-box{
+    background: linear-gradient(180.15deg, #FEFEFE 0.15%, #F2F4F9 52.62%, #E8EAF4 99.89%);
+    border-radius: 0px;
+margin-top: 10px;
+padding-bottom: 25px;
+}
+.last-box-flex{
+    display: flex;
+    gap: 193px;
+}
+.helpful-policies{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #131821;
+}
+.flex-for-responsive{
+    display: flex;
+    gap: 190px;
+}
+.SEO-logo{
+    width: 170px;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.last-text{
+    font-family: 'Futura PT',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #131821;
+}
+.justify-helpfullink{
+    padding-top: 40px;
+}
+.justify-policies{
+    padding-top: 40px;
+}
+.socialmedia-flex{
+    display: flex;
+    gap: 20px;
+    padding-left: 70px;
+}
+
+
+@media screen and (max-device-width:967px){
+    .guide-pricing-flex{
+        gap: 60px;
+    }
+    .main-heading{
+        font-size: 49px;
+    }
+    .main-heading-sub{
+        font-size: 17.2px;
+    }
+    .Get-TURINGSEO-button{
+        padding: 13px 23px;
+    }
+    .laptop-portion-flex{
+        gap: 27px;
+    }
+    .laptop-portion-paragraph{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .macbook{
+        width: 480px;
+    }
+    .Bulk-Updates-heading{
+        font-size: 32px;
+    }
+   .link-cleaner-portionflex{
+    gap: 38px;
+   }
+   .image-linkcleaner{
+    width: 380px;
+   }
+  
+   .linkcleaner-paragraph{
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 25px;
+   }
+   .Link-Normalizer-flex{
+    gap: 34px;
+   }
+   .Link-Normalizer-paragraph{
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 25px;
+   }
+   .img-linknormlizer{
+    width: 389px;
+   }
+   .image1-justify{
+    padding-top: 20px;
+   }
+   .directive-flex{
+    gap: 42px;
+   }
+   .img-directive{
+    width: 380px;
+   }
+   .image2-justify{
+    padding-top: 10px;
+   }
+   .thinmatic-flex{
+    gap: 25px;
+   }
+   .img-thinmatic{
+    width: 395px;
+   }
+   .image3-justify{
+    padding-top: 15px;
+
+   }
+   .track-undo-flex{
+    gap: 42px;
+   }
+   .track-undo-image{
+    width: 370px;
+   }
+   .form{
+    width: 810px;
+   }
+   .boxes-6{
+    max-width: 810px;
+   }
+   .Our-Benefits{
+    font-size: 28px;
+   }
+   .boxes-paragraph{
+    font-size: 14px;
+   }
+   .box1-of-6{
+    width: 255px;
+   }
+   .customer-heading {
+    font-size: 28px;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+.customer-inner-box {
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+.customer-box {
+    width: 89%;
+}
+.newline-none-967{
+    display: none;
+}
+.newline-967{
+    display: block;
+}
+.last-box-flex {
+    gap: 0px;
+}
+.flex-for-responsive{
+
+    gap: 0;
+}
+.justify-helpfullink{
+    padding-left: 261px;
+}
+.justify-policies{
+    padding-left: 50px;
+}
+
+
+}
+
+
+@media screen and (max-device-width:850px){
+    .guide-pricing-flex{
+        gap: 40px;
+        font-size: 16px;
+        padding-top: 24px;
+    }
+    .main-heading{
+        font-size: 38px;
+        line-height: 55px;
+        padding-top: 10px;
+    }
+    .main-heading-sub{
+        font-size: 15.2px;
+    }
+    .Get-TURINGSEO-button{
+        font-size: 16px;
+    }
+    .laptop-portion-flex{
+        gap: 25px;
+    }
+    .laptop-portion-paragraph{
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .macbook{
+        width: 440px;
+    }
+    .Bulk-Updates-heading{
+        font-size: 31px;
+    }
+   .link-cleaner-portionflex{
+    gap: 35px;
+   }
+   .image-linkcleaner{
+    width: 350px;
+   }
+  
+   .linkcleaner-paragraph{
+    font-size: 13px;
+   }
+   .Link-Normalizer-flex{
+    gap: 34px;
+   }
+   .Link-Normalizer-paragraph{
+    font-size: 13px;
+   }
+   .img-linknormlizer{
+    width: 334px;
+   }
+   .image1-justify{
+    padding-top: 20px;
+   }
+   .directive-flex{
+    gap: 35px;
+   }
+   .img-directive{
+    width: 339px;
+   }
+   .image2-justify{
+    padding-top: 10px;
+   }
+   .thinmatic-flex{
+    gap: 25px;
+   }
+   .img-thinmatic{
+    width: 333px;
+   }
+   .image3-justify{
+    padding-top: 15px;
+
+   }
+   .track-undo-flex{
+    gap: 35px;
+   }
+   .track-undo-image{
+    width: 327px;
+   }
+   .form{
+    width: 740px;
+   }
+   .boxes-6{
+    max-width: 740px;
+   }
+   .box1-of-6{
+    width: 230px;
+   }
+   .boxes-paragraph {
+    font-size: 13px;
+}
+.ul1{
+    font-size: 14px;
+    line-height: 30px;
+}
+.ul2{
+    font-size: 14px;
+    line-height: 30px;
+}
+.free{
+    margin: auto;
+}
+.under-free{
+    padding-top: 24px;
+}
+.basic{
+    padding-top: 34px;
+}
+.customer-heading {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.stars{
+    width: 105px;
+}
+.highly-paragraph{
+    font-size: 13px;
+}
+.chris-pic {
+    width: 60px;
+}
+.CEO-justify {
+    padding-top: 12px;
+}
+.last-text{
+    font-size: 13px;
+    margin: auto;
+    line-height: 25px;
+}
+.justify-helpfullink {
+    padding-left: 220px;
+}
+.justify-helpfullink {
+    padding-top: 40px;
+}
+.justify-policies {
+    padding-top: 40px;
+}
+
+}
+
+
+
+@media screen and (max-device-width:782px){
+    .guide-pricing-flex{
+        gap: 25px;
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    .laptop-portion-flex{
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+    .justtify-button{
+        padding-left: 0;
+        padding-right: 40px;
+    }
+    .log-inbutton{
+        font-size: 14px;
+        border-radius: 25px;
+        padding: 9px 26px;
+    }
+    .justify-macbook{
+               display: flex;
+               justify-content: center;
+    }
+    .responsive782{
+        display: none;
+    }
+    .laptop-portion-paragraph{
+        font-size: 14px;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    .macbook{
+        width: 470px;
+    }
+   .link-cleaner-portionflex{
+    flex-direction: column-reverse;
+    padding-top: 20px;
+    gap: 10px;
+
+   }
+   .image-linkcleaner{
+    width: 380px;
+   }
+   .justify-image-linkcleaner{
+    display:flex;
+    justify-content: center;
+   }
+  .linkcleaner-paragraph{
+    font-size: 14px;
+    padding-left: 60px;
+    padding-right: 60px;
+   }
+   .link-cleaner-head{
+    padding-left: 60px;
+   }
+
+
+
+   .Link-Normalizer-flex{
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 55px;
+   }
+   .image1-justify{
+    padding-top: 0;
+    display: flex;
+    justify-content: center;
+   }
+   .Link-Normalizer-paragraph{
+    font-size: 14px;
+    padding-right: 60px;
+    padding-left: 60px;
+   }
+   .Link-Normalizer-head{
+    padding-left: 60px;
+   }
+   .img-linknormlizer{
+    width: 304px;
+   }
+   
+
+
+   .directive-flex{
+    flex-direction: column-reverse;
+    gap: 0px;
+    padding-top: 55px;
+   }
+   .img-directive{
+    width: 339px;
+   }
+   .image2-justify{
+    padding-top: 0;
+    display: flex;
+    justify-content: center;
+   }
+   .thinmatic-flex{
+    flex-direction: column;
+    gap: 0;
+    padding-top: 55px;
+   }
+   .img-thinmatic{
+    width: 303px;
+   }
+   .image3-justify{
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+   }
+   .track-undo-flex{
+    gap: 0;
+    padding-top: 55px;
+    flex-direction: column-reverse;
+   }
+   .tarc-and-undo-justify{
+    display: flex;
+    justify-content: center;
+   }
+   .track-undo-image{
+    width: 300px;
+   }
+   .form{
+    width: 556px;
+   }
+   .boxes-6{
+    grid-template-columns: auto auto;
+   }
+   .box1-of-6{
+    width: 274px;
+   }
+   .two-boxes1{
+    width: 35%;
+   }
+   .twobox2{
+    width: 35%;
+   }
+   .two-boxes-flex{
+    flex-direction: row;
+   }
+   .customer-boxes-flex{
+    flex-direction: column;
+    justify-content: center;    
+   }
+   .customer-inner-box{
+    margin: 0 75px;
+   }
+   .highly-paragraph {
+    font-size: 14px;
+}
+.stars {
+    width: 118px;
+}
+.customer-heading {
+    font-size: 26px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.SEO-logo {
+    width: 160px;
+    padding-left: 85px;
+    padding-top: 50px;
+}
+.socialmedia-flex{
+    padding-left: 85px;
+}
+.facebook{
+    width: 24px;
+}
+.justify-helpfullink {
+    padding-top: 50px;
+    padding-left: 120px;
+}
+.justify-policies{
+    padding-top: 50px;
+    padding-left: 35px;
+}
+.customer-box {
+    width: 78%;
+}
+}
+@media screen and (max-device-width:600px){
+    .guide-pricing-flex{
+        display: none;
+    }
+    .main-heading{
+        font-size: 32px;
+        line-height: 46px;
+    }
+    .Bulk-Updates-heading {
+        font-size: 24px;
+    }
+    .form{
+        width: 480px;
+    }
+    .boxes-6{
+        gap: 10px;
+    }
+    .box1-of-6{
+        width: 219px;
+    }
+    .two-boxes-flex{
+        flex-direction: column;
+    }
+    .two-boxes1{
+        width: 60%;
+        margin: auto;
+    }
+    .twobox2{
+        width: 60%;
+        margin: auto;
+    }
+    .customer-inner-box {
+        margin: 0 35px;
+    }
+    .customer-heading{
+        font-size: 25px;
+    }
+    .SEO-logo { 
+        padding-left: 65px;
+        padding-top: 45px;
+    }
+    .socialmedia-flex{
+        padding-left: 65px;
+    }
+    .justify-helpfullink {
+        padding-top: 43px;
+        padding-left: 60px;
+    }
+    .helpful-policies{
+        font-size: 14px;
+    }
+    .last-text{
+        line-height: 21px;
+    }
+    .justify-policies{
+        padding-top: 43px;
+    }
+}
+@media screen and (max-device-width:500px){
+    .justtify-logo {
+        padding-left: 30px;
+    }
+    .log-inbutton {
+        font-size: 12px;
+        border-radius: 19px;
+        padding: 7px 16px;
+    }
+    .main-heading {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .main-heading-sub {
+        font-size: 13.2px;
+    }
+    .Get-TURINGSEO-button {
+        padding: 11px 16px;
+        font-size: 13px;
+    }
+    .laptop-portion-flex{
+        padding-top: 59px;
+    }
+    .macbook {
+        width: 250px;
+    }
+    .Bulk-Updates-heading {
+        font-size: 20px;
+    }
+    .image-linkcleaner {
+        width: 250px;
+    }
+    .img-linknormlizer {
+        width: 250px;
+    }
+    .img-linknormlizer {
+        width: 250px;
+    }
+    .img-thinmatic {
+        width: 250px;
+    }
+    .track-undo-image {
+        width: 250px;
+    }
+    .form {
+        width: 340px;
+    }
+    .boxes-6{
+        grid-template-columns: auto;
+    }
+    .box1-of-6 {
+        width: 300px;
+    }
+    .boxes-paragraph{
+        font-size: 14px;
+    }
+    .SEO-logo {
+        width: 150px;
+        padding-left: 20px;
+        padding-top: 34px;
+    }
+    .helpful-policies{
+        font-size: 13px;
+    }
+    .justify-helpfullink{
+        padding-top: 35px;
+        padding-left: 30px;
+    }
+    .justify-policies{
+        padding-top: 35px;
+        padding-left: 27px;
+    }
+    .socialmedia-flex{
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+
+}
+
+@media screen and (max-device-width:380px){
+
+
+    .Stellar-logo {
+        padding-top: 16px;
+        width: 130px;
+        
+
+    }
+    .log-inbutton {
+        font-size: 11px;
+        border-radius: 12px;
+        padding: 6px 13px;
+    }
+    .justtify-button{
+        padding-top: 19px;
+    }
+    .main-heading {
+    font-size: 19px;
+    line-height: 28px;
+}
+.justtify-logo {
+    padding-left: 19px;
+}
+.main-heading-sub {
+    font-size: 10.2px;
+}
+.Get-TURINGSEO {
+    padding-top: 23px;
+}
+.Get-TURINGSEO-button {
+    padding: 10px 8px;
+    font-size: 10px;
+    border-radius: 16px;
+}
+.laptop-portion-flex {
+    padding-top: 37px;
+}
+.laptop-portion-paragraph {
+    font-size: 13px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+.macbook {
+    width: 200px;
+}
+.Bulk-Updates-heading {
+    font-size: 13px;
+}
+.link-cleaner-head {
+    padding-left: 19px;
+    font-size: 15px;
+}
+.linkcleaner-paragraph {
+    font-size: 13px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+.image-linkcleaner {
+    width: 195px;
+}
+.Link-Normalizer-head {
+    padding-left: 19px;
+    padding-top: 32px;
+    font-size: 15px;
+}
+.Link-Normalizer-paragraph {
+    font-size: 13px;
+    padding-right: 19px;
+    padding-left: 19px;
+}
+.img-linknormlizer {
+    width: 195px;
+}
+.img-directive {
+    width: 195px;
+}
+.img-thinmatic {
+    width: 195px;
+}
+.track-undo-image {
+    width: 195px;
+}
+.form {
+    width: 247px;
+    padding-top: 20px;
+}
+.Our-Benefits {
+    font-size: 21px;
+}
+.box1-of-6 {
+    width: 229px;
+}
+.boxes-headings {
+    font-size: 15px;
+}
+.boxes-paragraph {
+    font-size: 13px;
+}
+.basic{
+    font-size: 16px;
+    padding-top: 20px;
+}
+.free{
+    font-size: 26px;
+}
+.under-free{
+    font-size: 14px;
+}
+.ul1{
+    font-size: 13px;
+    line-height: 25px;
+}
+.twobox1-button {
+    font-size: 11px;
+    padding: 11px 14px;
+}
+.Professional{
+    font-size: 16px;
+    padding-top: 20px;
+}
+.month{
+    font-size: 26px;
+}
+.ul2{
+    font-size: 13px;
+    line-height: 25px;
+}
+.twobox2-button {
+    font-size: 11px;
+    padding: 11px 43px;
+}
+.last-box-flex{
+    flex-direction: column;
+}
+.justify-helpfullink {
+    padding-top: 14px;
+    padding-left: 27px;
+}
+.justify-policies {
+    padding-top: 14px;
+    padding-left: 75px;
+}
+.socialmedia-flex {
+    padding-left: 0;
+    justify-content: center;
+    padding-top: 20px;
+}
+.customer-heading {
+    font-size: 18px;
+}
+.stars {
+    width: 97px;
+}
+.highly{
+    font-size: 14px;
+}
+.highly-paragraph {
+    font-size: 9px;
+    line-height: 16px;
+}
+.customer-box {
+    width: 76%;
+}
+.customer-inner-box {
+    margin: 0px 21px;
+}
+.chris-pic {
+    width: 49px;
+    padding-top: 0;
+}
+.chris{
+    font-size: 10px;
+}
+.CEO{
+    font-size: 8px;
+    padding-top: 5px;
+}
+.picture-flex{
+    gap: 9px;
+}
+}
